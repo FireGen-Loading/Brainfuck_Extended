@@ -45,10 +45,12 @@ the path similarly command line call has to be mapped out on the data segment fi
 
 ## how to compile?
 
-it a single C file i think you can figure it out
+it's a single C file i think you can figure it out
 
 ## how to run it?
 
 like a command line command, `./BrainFuckExt.exe file.txt`
 
 isn't exactly rocket science
+
+please report any issues concerning typos to nobody
