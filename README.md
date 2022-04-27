@@ -37,7 +37,7 @@ the pointer address for the string will be the same as the data pointer.
 
 run shared Brainfuck Extended file, run a Brainfuck Extended file, but both files share the same data segment. to execute a file, a path in the format of a C string must be supplied.
 
-the path similairly command line call has to be mapped out on the data segment first and then the data pointer moved to the start of the string.
+the path similarly command line call has to be mapped out on the data segment first and then the data pointer moved to the start of the string.
 
 ## example files:
 
